@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configserify",
+        "uuid": 10898685,
+        "checksum": "niayo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
